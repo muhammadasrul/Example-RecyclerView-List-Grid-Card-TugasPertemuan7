@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TugasPertemuan7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stars_image">stars image</string>
+    <string name="favorite_button">favorite button</string>
+    <string name="camera_image">camera_image</string>
+    <string name="muhammad_asrul">Muhammad Asrul</string>
+    <string name="profile_desc">Rp 5.000.000</string>
+    <string name="you_might_like">You might like</string>
+    <string name="list_button">list button</string>
+    <string name="grid_button">grid button</string>
+    <string name="card_button">card button</string>
+</resources>
